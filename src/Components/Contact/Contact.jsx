@@ -42,7 +42,7 @@ const Contact = () => {
         <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our community.</p>
         <ul>
             <li><img src={mail_icon} alt="" />info@visiononetechnologies.com</li>
-            <li><img src={phone_icon} alt="" />,+9175341257, +918847278954</li>
+            <li><img src={phone_icon} alt="" />+919175341257, +918847278954</li>
             <li><img src={location_icon} alt="" />Vision One Technologies<br/> Gera Towers, Phase 3, Hinjewadi, Pune</li>
         </ul>
       </div>
